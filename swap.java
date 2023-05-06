@@ -5,15 +5,15 @@ class Demo
         
 
 {
-    int a,b ,c;
+    int a,b ;
 
-    Scanner ab = new Scanner(System.in);
+    Scanner ob = new Scanner(System.in);
      System.out.println("Befour Swapping ");
 
      System.out.print("Enter the value of a :-");
-     a = ab.nextInt();
+     a = ob.nextInt();
      System.out.print("Enter the value of b :-");
-     b = ab.nextInt();
+     b = ob.nextInt();
 
      a=a+b;
      b=a-b;

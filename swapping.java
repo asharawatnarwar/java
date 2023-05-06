@@ -3,7 +3,7 @@ class Demo
 {
     public static void main(String arr[])
 {
-    int a,b;
+    int a,b,c;
 
     Scanner ab = new Scanner(System.in);
      System.out.println("Befour Swapping ");

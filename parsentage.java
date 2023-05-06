@@ -13,8 +13,8 @@ class Demo
      System.out.println("Enter math marks:-");
      math=ob.nextFloat();
 
-   totle=hindi*english*math;
-   par=totle*100/300
+   totle=hindi+english+math;
+       par=totle*100/300;
     System.out.println("Totle marks=" +totle);
     System.out.println("Parsentage  =" +par);
     
