@@ -4,7 +4,7 @@ class Demo
     public static void main (String arr[])
     {
        String st;
-       char ch ;
+       char ch ;zzz
        boolean b;
        
        Scanner ob = new Scanner(System.in);
