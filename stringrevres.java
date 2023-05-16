@@ -12,7 +12,7 @@ class rev
         len=st.length();
          for (i = len-1; i>=0;i--)
 {
-    System.out.println(st.charAt(i));
+    System.out.println(  st.charAt(i));
 }
 
     }
